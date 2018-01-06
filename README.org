@@ -1,0 +1,5 @@
+* Introduction to Data Analysis in Python
+
+This repository contains my solutions to the assignments from
+the [[https://www.coursera.org/learn/python-data-analysis][Introduction to Data Analysis in Python]] Coursera course 
+offered by the University of Michingan.
